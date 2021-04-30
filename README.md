@@ -5,20 +5,20 @@ Course- Computers
 Faculty Name- Pradnya Bhangale 
 College- K.J.Somaiya College of Engineering
 
-dataset.csv
+dataset.csv-
 Dataset that has been used for implementation of this project. Dataset is taken from Kaggle.
 
 
-dataset_dexcrption.py
+dataset_dexcrption.py-
 In this file I have imported required libraries. 
 Read the csv file and displayed structure of the dataset.
 Displayed  number of legitimate and phishing records in dataset.
 Created heatmap that shows correlation of the features
 
-feature extraction.py
+feature extraction.py-
 Created this file for extracting features to train the dataset. I have used 22 features.
 
-classifiers.py
+classifiers.py-
 Imported the reuired libraries to calculate results for Decision Tree Model and Random Forest Model
 Read csv file to create pandas dataframe,preprocessed the data to reduce bias and displayed the first 5 rows of dataframe.
 Implemented Decision Tree Classifier and Random Forest Classifier- Cross validated the data provided in dataset according to specified fold count i.e 10. and evaluated performance of cross validated data. Then calculated mean of obtained cross validated result. 
