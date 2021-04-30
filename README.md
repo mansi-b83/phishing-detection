@@ -25,6 +25,10 @@ Implemented Decision Tree Classifier and Random Forest Classifier- Cross validat
 
 It was observed that Random Forest Classifier provided better accuracy,precision,recall and F1 score compared to Decison Tree Classifier
 
+Output of classifiers:
+![image](https://user-images.githubusercontent.com/83391233/116664122-a78ad380-a9b5-11eb-8745-25876e3b081c.png)
+
+
 Steps to run this project:
 1) Run dataset_description.py
 2) Run feature_extraction.py
