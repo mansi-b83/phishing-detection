@@ -6,8 +6,7 @@ Faculty Name- Pradnya Bhangale
 College- K.J.Somaiya College of Engineering
 
 dataset.csv-
-Dataset that has been used for implementation of this project. Dataset is taken from Kaggle.
-
+Dataset that has been used for implementation of this project.
 
 dataset_dexcrption.py-
 In this file I have imported required libraries. 
